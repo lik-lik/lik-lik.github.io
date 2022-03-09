@@ -9,3 +9,16 @@ p{
 			font-size: 40px;
 font-family: 隶书;
 }
+a:link{
+	color:red;
+}
+a:visited{
+	color: green;
+}
+a:hover{
+	color: yellow;
+	font-size: 30px;
+}
+a:active{
+	color:blue;
+}
