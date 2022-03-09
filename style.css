@@ -10,7 +10,9 @@ header{
 		background-color: red;
 	}
 .main {
-  display: flex;background-color: gold;
+  display: flex;
+	flex-direction: row;
+  background-color: gold;
   
 }
 .aside {
