@@ -1,6 +1,6 @@
-.rongqi{display:flex; flex-direction:column; background-color:#9CF; }
-.tou{ background-color:#CCC; }
-.zhong{ background-color:#396; display:flex;}
-.di{ background-color:#999; }
-.c01{ background-color:#FC3;flex:1;}
-.c02{ background-color:#C63; flex:3;}
+.body{display:flex; flex-direction:column; background-color:#9CF; }
+.header{ background-color:#CCC; }
+.main{ background-color:#396; display:flex;}
+.footer{ background-color:#999; }
+.aside{ background-color:#FC3;flex:1;}
+.article{ background-color:#C63; flex:3;}
