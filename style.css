@@ -14,9 +14,11 @@ header{
   flex: auto;
 }
 .aside {
+background-color: yellow;	
   flex: 1;
 }
 .article {
+background-color: blue;
   flex: 3;
 }
 footer{
