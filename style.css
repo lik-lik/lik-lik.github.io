@@ -13,11 +13,11 @@ header{
   display: flex;
   flex: auto;
 }
-.aside {
+aside {
 background-color: yellow;	
   flex: 1;
 }
-.article {
+article {
 background-color: blue;
   flex: 3;
 }
