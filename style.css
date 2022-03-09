@@ -1,27 +1,6 @@
-a:hover{
-  color:green;
-}
-.body {
-  display: flex;
-  flex-direction: column;
-}
-.header{		
-		background-color: red;
-	}
-.footer{
-		background-color: green;
-	}
-
-.main {
-  display: flex;
-  background-color: gold;
-  
-}
-.aside {
-background-color: yellow;	
-  flex: 1;
-}
-.article {
-background-color: blue;
-  flex: 3;
-}
+.rongqi{display:flex; flex-direction:column; background-color:#9CF; }
+.tou{ background-color:#CCC; }
+.zhong{ background-color:#396; display:flex;}
+.di{ background-color:#999; }
+.c01{ background-color:#FC3;flex:1;}
+.c02{ background-color:#C63; flex:3;}
