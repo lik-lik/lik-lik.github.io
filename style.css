@@ -5,6 +5,10 @@ a:hover{
   display: flex;
   flex-direction: column;
 }
+header{
+		
+		background-color: red;
+	}
 .main {
   display: flex;
   flex: auto;
@@ -15,3 +19,6 @@ a:hover{
 .article {
   flex: 3;
 }
+footer{
+		background-color: green;
+	}
